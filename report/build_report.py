@@ -374,7 +374,7 @@ for row in info.rows:
         cell.width = Cm(7.5)
         cell_margins(cell, top=70, bottom=70, left=120, right=120)
 labels = ["姓名", "学号", "实验仓库", "完成日期"]
-values = ["许波婧", "25303060076", "ICS-26Fall-FDU/AttackLab", "2026 年 10 月 28 日"]
+values = ["许波婧", "25303060076", "github.com/Marinabobo/AttackLab", "2026 年 10 月 28 日"]
 for i, (lab, val) in enumerate(zip(labels, values)):
     c0, c1 = info.rows[i].cells
     shade(c0, "EDF2F9")
