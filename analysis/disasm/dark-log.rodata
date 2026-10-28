@@ -1,0 +1,9 @@
+
+attack/dark-log:     file format elf64-x86-64
+
+Contents of section .rodata:
+ 4018c0 01000200 00000000 0a1b5b33 316d2048  ..........[31m H
+ 4018d0 6f706520 25632077 696c6c20 62652079  ope %c will be y
+ 4018e0 6f757220 67726164 6521200a 00456e74  our grade! ..Ent
+ 4018f0 65722061 206c6f67 206d6573 73616765  er a log message
+ 401900 3a004c6f 67207361 7665642e 00        :.Log saved..   
